@@ -6,5 +6,10 @@ int main() {
 
 	printf("I vam privet!!!\n");
 
+	int a;
+	scanf("%d", &a);
+
+	printf("schitano %d\n", a);
+
 	return 0;
 }
